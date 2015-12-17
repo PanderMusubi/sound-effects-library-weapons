@@ -70,7 +70,7 @@ tr '\015' '\n'<../../../../../Prepared_Master_Sheet.csv >prepared_master_sheet.c
 cd ../../../../..
 
 # supply metadata
-cp copyright $PKG-$VSN/usr/share/doc/$PKG
+cp LICENSE $PKG-$VSN/usr/share/doc/$PKG/copyright
 cp README.md $PKG-$VSN/usr/share/doc/$PKG
 
 # create PKG
