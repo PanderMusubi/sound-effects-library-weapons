@@ -1,0 +1,10 @@
+Package: sfx-weapons
+Version: 1.0-1
+Section: base
+Priority: optional
+Architecture: all
+Depends: 
+Maintainer: Pander <pander@users.sourceforge.net>
+Description: TODO TODO
+ When you need some sunshine, just run this
+ small program!
